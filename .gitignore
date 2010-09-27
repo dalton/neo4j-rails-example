@@ -1,0 +1,8 @@
+.DS_Store
+log/*.log
+tmp/**/*
+config/database.yml
+db/*.sqlite3
+neo4j/*
+neo4j/**/*
+.idea/*
